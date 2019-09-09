@@ -1,4 +1,3 @@
-
 '''
 # Century From Year
 ex. 
