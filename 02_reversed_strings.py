@@ -5,4 +5,4 @@ world --> dlrow
 '''
 
 def solution(string):
-return string[::-1]
+	return string[::-1]
