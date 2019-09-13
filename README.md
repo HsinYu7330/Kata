@@ -10,6 +10,9 @@
 | 06  | Ordered Count of Characters           | 7 kyu  | 2019/09/11   |
 | 07  | Grasshopper-Make change               | 8 kyu  | 2019/09/12   |
 | 08  | Find The Parity Outlier               | 6 kyu  | 2019/09/12   |
+| 09  | Form The Largest                      | 7 kyu  | 2019/09/13   |
+| 10  | Human Readable Time                   | 5 kyu  | 2019/09/13   |
+
 
 
 
