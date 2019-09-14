@@ -12,6 +12,9 @@
 | 08  | Find The Parity Outlier               | 6 kyu  | 2019/09/12   |
 | 09  | Form The Largest                      | 7 kyu  | 2019/09/13   |
 | 10  | Human Readable Time                   | 5 kyu  | 2019/09/13   |
+| 11  | Invert values                         | 8 kyu  | 2019/09/14   |
+| 12  | Maximum Multiple                      | 7 kyu  | 2019/09/14   |
+
 
 
 
