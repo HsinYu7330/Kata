@@ -14,6 +14,9 @@
 | 10  | Human Readable Time                   | 5 kyu  | 2019/09/13   |
 | 11  | Invert values                         | 8 kyu  | 2019/09/14   |
 | 12  | Maximum Multiple                      | 7 kyu  | 2019/09/14   |
+| 13  | Abbreviate a Two Word Name            | 8 kyu  | 2019/09/15   |
+| 14  | Sentence Smash                        | 8 kyu  | 2019/09/15   |
+
 
 
 
