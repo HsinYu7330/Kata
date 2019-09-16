@@ -17,7 +17,10 @@
 | 13  | Abbreviate a Two Word Name                                    | 8 kyu  | 2019/09/15   |
 | 14  | Sentence Smash                                                | 8 kyu  | 2019/09/15   |
 | 15  | Looking for a benefactor                                      | 7 kyu  | 2019/09/16   |
-| 16  | Next smaller number with the same digits [need to optimize]   | 4 kyu  | 2019/09/16   |
+| 16  | Next smaller number with the same digits <font color="red">[need to optimize] </font>   | 4 kyu  | 2019/09/16   |
+
+
+
 
 
 
