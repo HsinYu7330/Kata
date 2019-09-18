@@ -20,6 +20,10 @@
 | 16  | Next smaller number with the same digits <font color="red">[need to optimize] </font>   | 4 kyu  | 2019/09/16   |
 | 17  | Primorial Of a Number                                         | 6 kyu  | 2019/09/17   |
 | 18  | Duplicate Encoder                                             | 6 kyu  | 2019/09/17   |
+| 19  | Numericals of a String                                        | 6 kyu  | 2019/09/18   |
+| 20  | Even or Odd                                                   | 8 kyu  | 2019/09/18   |
+
+
 
 
 
