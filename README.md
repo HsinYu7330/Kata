@@ -24,6 +24,11 @@
 | 20  | Even or Odd                                                   | 8 kyu  | 2019/09/18   |
 | 21  | Sum of odd numbers                                            | 7 kyu  | 2019/09/19   |
 | 22  | Permutations                                                  | 4 kyu  | 2019/09/19   |
+| 23  | Bit Counting                                                  | 6 kyu  | 2019/09/20   |
+| 24  | New Cashier Does Not Know About Space of Shift                | 6 kyu  | 2019/09/20   |
+
+
+
 
 
 
