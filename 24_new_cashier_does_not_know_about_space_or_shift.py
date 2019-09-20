@@ -12,6 +12,3 @@ def get_order(order):
 	order_item = [[v.capitalize()]*order.count(v) for k, v in menu.items() if v in order]
 
 	return ' '.join(sum(order_item, []))
-
-s = 'milkshakepizzachickenfriescokeburgerpizzasandwichmilkshakepizza'
-
