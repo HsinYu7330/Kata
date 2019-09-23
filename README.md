@@ -26,6 +26,8 @@
 | 22  | Permutations                                                  | 4 kyu  | 2019/09/19   |
 | 23  | Bit Counting                                                  | 6 kyu  | 2019/09/20   |
 | 24  | New Cashier Does Not Know About Space of Shift                | 6 kyu  | 2019/09/20   |
+| 25  | Pete, the baker                                               | 5 kyu  | 2019/09/23   |
+| 26  | Build a square                                                | 7 kyu  | 2019/09/23   |
 
 
 
