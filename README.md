@@ -17,7 +17,7 @@
 | 13  | Abbreviate a Two Word Name                                    | 8 kyu  | 2019/09/15   |
 | 14  | Sentence Smash                                                | 8 kyu  | 2019/09/15   |
 | 15  | Looking for a benefactor                                      | 7 kyu  | 2019/09/16   |
-| 16  | Next smaller number with the same digits <font color="red">[need to optimize] </font>   | 4 kyu  | 2019/09/16   |
+| 16  | Next smaller number with the same digits **[need to optimize]**  | 4 kyu  | 2019/09/16   |
 | 17  | Primorial Of a Number                                         | 6 kyu  | 2019/09/17   |
 | 18  | Duplicate Encoder                                             | 6 kyu  | 2019/09/17   |
 | 19  | Numericals of a String                                        | 6 kyu  | 2019/09/18   |
@@ -28,6 +28,8 @@
 | 24  | New Cashier Does Not Know About Space of Shift                | 6 kyu  | 2019/09/20   |
 | 25  | Pete, the baker                                               | 5 kyu  | 2019/09/23   |
 | 26  | Build a square                                                | 7 kyu  | 2019/09/23   |
+| 27  | Gap in Primes **[need to optimize]**                          | 5 kyu  | 2019/09/24   |
+| 28  | Is he gonna survive?                                          | 8 kyu  | 2019/09/24   |
 
 
 
