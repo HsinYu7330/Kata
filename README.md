@@ -30,6 +30,8 @@
 | 26  | Build a square                                                | 7 kyu  | 2019/09/23   |
 | 27  | Gap in Primes **[need to optimize]**                          | 5 kyu  | 2019/09/24   |
 | 28  | Is he gonna survive?                                          | 8 kyu  | 2019/09/24   |
+| 29  | Alphabetical Addition                                         | 7 kyu  | 2019/10/05   |
+
 
 
 
