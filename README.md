@@ -32,6 +32,7 @@
 | 28  | Is he gonna survive?                                          | 8 kyu  | 2019/09/24   |
 | 29  | Alphabetical Addition                                         | 7 kyu  | 2019/10/05   |
 | 30  | Squares sequence                                              | 7 kyu  | 2019/10/07   |
+| 31  | Unique In Order                                               | 6 kyu  | 2019/10/07   |
 
 
 
