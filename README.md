@@ -33,6 +33,10 @@
 | 29  | Alphabetical Addition                                         | 7 kyu  | 2019/10/05   |
 | 30  | Squares sequence                                              | 7 kyu  | 2019/10/07   |
 | 31  | Unique In Order                                               | 6 kyu  | 2019/10/07   |
+| 32  | Count the divisible numbers                                   | 6 kyu  | 2019/11/20   |
+| 33  | Remove anchor from URL                                        | 7 kyu  | 2019/11/20   |
+
+
 
 
 
