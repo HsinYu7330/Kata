@@ -38,6 +38,8 @@
 | 34  | Beginner-Lost Without a Map                                   | 8 kyu  | 2019/12/10   |
 | 35  | Church Numbers-Add, Multiply, Exponents                       | 4 kyu  | 2019/12/10   |
 | 36  | Well of Ideas-Easy Version                                    | 8 kyu  | 2019/12/11   |
+| 37  | Counting Duplicates                                           | 6 kyu  | 2019/12/11   |
+
 
 
 
