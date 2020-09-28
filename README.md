@@ -40,6 +40,7 @@
 | 36  | Well of Ideas-Easy Version                                    | 8 kyu  | 2019/12/11   |
 | 37  | Counting Duplicates                                           | 6 kyu  | 2019/12/11   |
 | 38  | Sum The Strings                                               | 8 kyu  | 2019/12/12   |
+| 39  | Numbers in strings                                            | 7 kyu  | 2020/09/28   |
 
 
 
