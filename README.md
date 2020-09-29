@@ -41,6 +41,7 @@
 | 37  | Counting Duplicates                                           | 6 kyu  | 2019/12/11   |
 | 38  | Sum The Strings                                               | 8 kyu  | 2019/12/12   |
 | 39  | Numbers in strings                                            | 7 kyu  | 2020/09/28   |
+| 40  | Regex validate PIN code                                       | 7 kyu  | 2020/09/29   |
 
 
 
